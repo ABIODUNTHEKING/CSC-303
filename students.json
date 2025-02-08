@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Victor",
+    "id": "ABC12345",
+    "department": "CSC",
+    "courses": [
+      {
+        "name": "Introduction to MLS",
+        "code": "MLS 102",
+        "unit": 1,
+        "score": 75,
+        "grade_point": 5
+      },
+      {
+        "name": "Cooking MLS",
+        "code": "MLS 104",
+        "unit": 4,
+        "score": 70,
+        "grade_point": 5
+      }
+    ]
+  },
+  {
+    "name": "Victor",
+    "id": "ABC12345",
+    "department": "CSC",
+    "courses": [
+      {
+        "name": "Introduction to MLS",
+        "code": "MLS 102",
+        "unit": 1,
+        "score": 75,
+        "grade_point": 5
+      },
+      {
+        "name": "Cooking MLS",
+        "code": "MLS 104",
+        "unit": 4,
+        "score": 70,
+        "grade_point": 5
+      }
+    ]
+  }
+]
