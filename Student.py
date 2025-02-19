@@ -21,6 +21,7 @@ class Student:
         self._courses.append(course.get_course_details())
 
     def get_student_details(self):
+        
         return {
             "name": self._name,
             "id": self._id,

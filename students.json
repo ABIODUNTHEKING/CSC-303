@@ -1,44 +1,22 @@
 [
-  {
-    "name": "Victor",
-    "id": "ABC12345",
-    "department": "CSC",
-    "courses": [
-      {
-        "name": "Introduction to MLS",
-        "code": "MLS 102",
-        "unit": 1,
-        "score": 75,
-        "grade_point": 5
-      },
-      {
-        "name": "Cooking MLS",
-        "code": "MLS 104",
-        "unit": 4,
-        "score": 70,
-        "grade_point": 5
-      }
-    ]
-  },
-  {
-    "name": "Victor",
-    "id": "ABC12345",
-    "department": "CSC",
-    "courses": [
-      {
-        "name": "Introduction to MLS",
-        "code": "MLS 102",
-        "unit": 1,
-        "score": 75,
-        "grade_point": 5
-      },
-      {
-        "name": "Cooking MLS",
-        "code": "MLS 104",
-        "unit": 4,
-        "score": 70,
-        "grade_point": 5
-      }
-    ]
-  }
+    {
+        "name": "Emmanuel",
+        "id": "dddd",
+        "department": "dddd",
+        "courses": []
+    },
+    {
+        "name": "Issac",
+        "id": "2222",
+        "department": "ssss",
+        "courses": [
+            {
+                "name": "MTH 102",
+                "code": "MTH 102",
+                "unit": 3.0,
+                "score": 70.0,
+                "grade_point": 5
+            }
+        ]
+    }
 ]
